@@ -1,5 +1,6 @@
-#AULA 1 
-    ##ntrodução à Informática e Computação
+# AULA 1 
+
+# Introdução à Informática e Computação
 
     O instrumento matemático *abáco* COMPUTAVA resultados matemáticos
 
