@@ -6,7 +6,7 @@ Um sistema operacional é o software que inicializa o computador e que serve de 
 
 O sistema operacional pode ser visto como uma camada entre o hardware e os aplicativos. Toda vez que um aplicativo (software) precisar imprimir, ele irá pedir ao sistema operacional que envie seu material à impressora (hardware).
 
-<img src= "sistemasoperacionais.png" alt= "funcionamento de um sistema operaciional">
+<img src="sistemasoperacionais.png" alt="funcionamento de um sistema operaciional">
 
 # Categorias dos softwares
 São divididos em Software de sistema e Software aplicativo:
